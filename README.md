@@ -7,3 +7,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/paperricky/ricky/refs
 ## 🟢 Chicken Farm
 
 ## 🟢 Sail For Brainrots
+
+# Coming Soon
+
+🟡 Build A Ring Farm
