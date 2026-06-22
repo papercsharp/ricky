@@ -10,4 +10,4 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/paperricky/ricky/refs
 
 # Coming Soon
 
-🟡 Build A Ring Farm
+## 🟡 Build A Ring Farm
