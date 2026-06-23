@@ -6,9 +6,12 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/paperricky/ricky/refs
 
 ## 🟢 Chicken Farm
 
+
 ## 🟢 Sail For Brainrots
+Auto Farm, Auto Claim Brainrots and Redeem Codes
 
 ## 🟢 Cross Rivers for Brainrots
+Auto Farm
 
 # Coming Soon
 
